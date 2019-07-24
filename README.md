@@ -6,5 +6,5 @@
 3. install requirements (with a virtual env if required)
 4. run zergRush.py 
 
-## Note : -
+## Note 
 python3.6^ only
